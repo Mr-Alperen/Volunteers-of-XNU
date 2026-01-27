@@ -12,3 +12,30 @@
 0  0  0  0  0  0  0  0  0  0  1  0  0
 0  0  0  0  0  0  0  0  0  0  0  1  0
 0  0  0  0  0  0  0  0  0  0  0  0  1
+
+--- Take the logarithm of the sum of 
+    the numbers in this matrix ---
+
+0  1  0  1  0  0  0  0  0  1  0  0  0
+0  0  0  0  0  0  0  0  0  0  0  0  0
+1  1  1  1  0  0  0  1  0  0  0  0  0
+
+--- Find the original variable in this
+    matrix ---
+
+--- Convert both operations into two 
+    separate memory addresses ---
+
+1  0  0    0  0  1    0  1  1
+0  1  0    1  0  1    0  1  0  
+0  0  1    0  1  0    0  0  1
+
+--- Add these three matrices side by 
+    side (excluding zero). Add the 
+    largest prime factor of the resulting 
+    number to the logarithm you found earlier, 
+    then enter it into the logarithm again. 
+    Convert the resulting number back to a 
+    memory address. Then, examine the trash.asm 
+    code in more detail with the three addresses 
+    you have ---
