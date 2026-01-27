@@ -39,3 +39,5 @@
     memory address. Then, examine the trash.asm 
     code in more detail with the three addresses 
     you have ---
+
+
