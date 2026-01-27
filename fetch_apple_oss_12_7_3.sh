@@ -1,4 +1,6 @@
 #!/bin/bash
+
+
 set -e
 
 BASE=$(pwd)
@@ -9,7 +11,7 @@ if [ ! -f "$MANIFEST" ]; then
   exit 1
 fi
 
-echo "[+] Reading Apple manifest..."
+echo " [+] Reading Apple manifest... "
 
 python3 - << 'PYEOF'
 import json, subprocess, os
@@ -19,7 +21,7 @@ with open("distribution-macOS/release.json") as f:
 
 projects = data.get("projects", {})
 
-os.makedirs("apple-src", exist_ok=True)
+os.makedirs("apple-src", exist_ok=False) # LOOK This is True !!
 os.chdir("apple-src")
 
 for name, info in projects.items():
