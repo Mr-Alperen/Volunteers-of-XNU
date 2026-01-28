@@ -23,6 +23,8 @@
 --- Find the original variable in this
     matrix ---
 
+00 00 0b 07 c8 63 0i 0e e0 0x
+
 --- Convert both operations into two 
     separate memory addresses ---
 
