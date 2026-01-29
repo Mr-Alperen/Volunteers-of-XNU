@@ -14,6 +14,7 @@ __sync_run__
 __warp_run__
 __surp_stp__
 __kcvl_run__
+__vsnc_kln__
 
 __sup_base_lib_on__
 __lib_case__
