@@ -21,3 +21,4 @@ kcp, orp(0)             ;
 up%%1, com(0x2A)        ;
 
 mow, call, kcp "$"      ;
+movl, key               ;
