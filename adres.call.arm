@@ -22,3 +22,5 @@ up%%1, com(0x2A)        ;
 
 mow, call, kcp "$"      ;
 movl, key               ;
+
+call(0x0000000fff2A)    ;
