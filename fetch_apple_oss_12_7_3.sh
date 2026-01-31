@@ -31,6 +31,7 @@ for name, info in projects.items():
     if not repo or not tag:
         continue
 
+    # You write of repo !!!
     url = f"https://github.com/apple-oss-distributions/{repo}.git"
 
     print(f"[+] {repo} @ {tag}")
