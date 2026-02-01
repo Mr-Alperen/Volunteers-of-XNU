@@ -33,4 +33,9 @@ __load_module__
 __localize__
 __config_parser__
 __init_subsystem__
-
+__boot_sequence__
+__lib_config_load__
+__sys_setup__
+__kernel_params__
+__cpu_register_init__
+__memory_map_init__
