@@ -31,3 +31,5 @@ __base64__
 __init_core__
 __load_module__
 __localize__
+__config_parser__
+
