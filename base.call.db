@@ -9,13 +9,11 @@ __login_logout__
 __syntax_error__
 __sha_encrypt_error__
 __307_error__
-
 __sync_run__
 __warp_run__
 __surp_stp__
 __kcvl_run__
 __vsnc_kln__
-
 __sup_base_lib_on__
 __lib_case__
 __whoami_zsh_run
@@ -27,7 +25,6 @@ __monitor_memory_swap__
 __sudo_i_run__
 __zsh__
 __base64__
-
 __init_core__
 __load_module__
 __localize__
@@ -39,3 +36,14 @@ __sys_setup__
 __kernel_params__
 __cpu_register_init__
 __memory_map_init__
+__sync_threads__
+__warp_scheduler__
+__task_spawn__
+__interrupt_handler__
+__context_switch__
+__process_monitor__
+__vsync_handler__
+__io_queue_run__
+__kernel_tick__
+__cpu_core_balance__
+
