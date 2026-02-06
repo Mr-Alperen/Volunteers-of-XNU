@@ -1990,3 +1990,6 @@ __ZN15IOStateReporterD2Ev
 __ZN8OSAction10superClassE
 
 __ZN12IOPlatformIO10superClassE
+__ZN6IOPMGR10superClassE
+
+
