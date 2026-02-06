@@ -1987,4 +1987,5 @@ _registerSleepWakeInterest
 _vetoSleepWakeNotification
 
 __ZN15IOStateReporterD2Ev
+__ZN8OSAction10superClassE
 
