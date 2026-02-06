@@ -1989,3 +1989,4 @@ _vetoSleepWakeNotification
 __ZN15IOStateReporterD2Ev
 __ZN8OSAction10superClassE
 
+__ZN12IOPlatformIO10superClassE
