@@ -1986,4 +1986,5 @@ _registerPrioritySleepWakeInterest
 _registerSleepWakeInterest
 _vetoSleepWakeNotification
 
+__ZN15IOStateReporterD2Ev
 
