@@ -1994,5 +1994,5 @@ __ZN6IOPMGR10superClassE
 
 __ZN9IOService22CoreAnalyticsSendEventEyP8OSStringP12OSDictionaryPFiP15OSMetaClassBase5IORPCE
 __ZN18IOMemoryDescriptor16getMapperOptionsEv
-
+__ZN18IOMemoryDescriptor16setMapperOptionsEt
 
