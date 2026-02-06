@@ -3,3 +3,5 @@
   
 __cop__:
     ldr x0, =0x3A
+    ldr x1, [x0]
+    
