@@ -2,4 +2,4 @@
     .global __cop__
   
 __cop__:
-    
+    ldr x0, =0x3A
