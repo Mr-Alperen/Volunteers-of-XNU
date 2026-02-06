@@ -1992,4 +1992,6 @@ __ZN8OSAction10superClassE
 __ZN12IOPlatformIO10superClassE
 __ZN6IOPMGR10superClassE
 
+__ZN9IOService22CoreAnalyticsSendEventEyP8OSStringP12OSDictionaryPFiP15OSMetaClassBase5IORPCE
+
 
