@@ -44,7 +44,7 @@ const char * gIOKernelConfigTables =
     ")";
 
 // 0:32
-
+ /*   k*O = 24M Comp  */
 // 0 0 0 0 0 0 0 0 0 0 
 // 0 1 0 0 0 0 0 0 0 1
 // 0 0 1 0 0 0 0 0 1 0
