@@ -32,6 +32,8 @@
  * Version 2.0.
  */
 
+/*Lee se of the os/atomic_private.h*/
+
 const char * gIOKernelConfigTables =
     "("
     "   {"
