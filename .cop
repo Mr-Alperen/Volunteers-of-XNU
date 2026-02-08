@@ -5,5 +5,5 @@ __cop__:
     ldr x0, =0x3A
     ldr x1, [x0]
     bl __cop__ 
-                          
+                           
 ; 0x3A = 63 | not time
