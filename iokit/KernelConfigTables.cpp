@@ -42,7 +42,7 @@ const char * gIOKernelConfigTables =
     "     'IOProbeScore'    = 0:32;"
     "   }"
     ")";
-
+ 
 // 0:32
  /*   k*O = 24M Comp  */
 // 0 0 0 0 0 0 0 0 0 0 
